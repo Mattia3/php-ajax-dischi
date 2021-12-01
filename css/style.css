@@ -1,0 +1,27 @@
+.header-container {
+  height: 70px;
+  background-color: rgba(46, 58, 70, 255);
+}
+
+.container-main {
+  background-color: rgba(30, 45, 59, 255);
+  padding-top: 80px;
+}
+
+.background-card {
+  background-color: rgba(43, 58, 70, 255);
+  display: flex;
+  flex-direction: column;
+  min-height: 450px;
+  margin-bottom: 20px;
+}
+.my-img {
+  padding: 20px;
+}
+.my-card-body {
+  padding: 0 11px;
+}
+.subtitle-container {
+  text-align: center;
+  padding: 10px 0px;
+}
